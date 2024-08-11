@@ -39,7 +39,7 @@ This project showcases the process of creating a fully functional web applicatio
 3. Learn essential cloud development concepts.
 4. Practice clean code and AWS best practices.
 
-**Check out my detailed article on dev.io** - https://dev.to/sujal_dua/building-an-aws-power-calculator-web-application-3k72
+**Check out my detail article on dev.io** - https://dev.to/sujal_dua/building-an-aws-power-calculator-web-application-3k72
 
 ### 🤔 Why This Project?
 This project is ideal for anyone new to AWS or web development on the cloud. It provides a clear, structured path to building a functional application while demystifying AWS. The focus on core services and best practices makes it a valuable learning experience for future cloud projects.
