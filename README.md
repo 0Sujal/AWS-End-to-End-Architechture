@@ -22,11 +22,11 @@ This project showcases the process of creating a fully functional web applicatio
 **AWS DynamoDB:** A NoSQL database to store calculation results (optional).
 **AWS API Gateway:** Securely connect our frontend and backend.
 ### 🛠️ How It Works:
-** Frontend:**
+**Frontend:**
 - A user-friendly web page built with Amplify.
 - Users input a base number and power.
 
-** Backend:**
+**Backend:**
 - API Gateway receives the input and triggers a Lambda function.
 - The Lambda function, written in Python, performs the calculation.
 - The result is returned to the frontend and displayed.
