@@ -29,7 +29,7 @@ This project showcases the process of creating a fully functional web applicatio
 **Backend:**
 - API Gateway receives the input and triggers a Lambda function.
 - The Lambda function, written in Python, performs the calculation.
-- The result is returned to the frontend and displayed.
+- The result is returned to the front end and displayed.
 - Optionally, the result is also stored in DynamoDB for future reference.
 
 
@@ -38,6 +38,8 @@ This project showcases the process of creating a fully functional web applicatio
 2. Gain confidence in building web apps on AWS.
 3. Learn essential cloud development concepts.
 4. Practice clean code and AWS best practices.
+
+**Check out my detailed article on dev.io** - https://dev.to/sujal_dua/building-an-aws-power-calculator-web-application-3k72
 
 ### 🤔 Why This Project?
 This project is ideal for anyone new to AWS or web development on the cloud. It provides a clear, structured path to building a functional application while demystifying AWS. The focus on core services and best practices makes it a valuable learning experience for future cloud projects.
