@@ -6,8 +6,8 @@ This project showcases the process of creating a fully functional web applicatio
 
 ### Key Features
 **Scalable Architecture:** The application is designed to handle varying loads, ensuring smooth performance as user traffic grows.
-**Secure & Reliable: **Implementing AWS best practices, the application ensures data security and reliability across all layers.
-**Fully Managed Services**: Leveraging AWS managed services to minimize operational overhead and focus on innovation.
+**Secure & Reliable:** Implementing AWS best practices, the application ensures data security and reliability across all layers.
+**Fully Managed Services:** Leveraging AWS managed services to minimize operational overhead and focus on innovation.
 
 ### 💡 Project Highlights:
 **No AWS experience needed:** We start from scratch, explaining each step and AWS service clearly.
